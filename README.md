@@ -1,5 +1,5 @@
 # Locally DiscoverSDK
-[![Build Status](https://travis-ci.org/locally-io/android-discover-sdk.svg?branch=master)](https://travis-ci.org/locally-io/android-discover-sdk)
+[![Build Status](https://travis-ci.org/locally-io/android-discover-sdk.svg?branch=master)](https://travis-ci.org/locally-io/android-discover-sdk) ![GitHub](https://img.shields.io/github/license/locally-io/android-discover-sdk.svg)
 
 This document outlines the steps taken to integrate the DiscoverSDK to an Android application.
 
